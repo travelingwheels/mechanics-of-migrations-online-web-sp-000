@@ -16,4 +16,4 @@ Bundler.require
 )
 
 require_relative "../artist.rb"
-require_relative "../db/migrate/01_create_artists"
+#require_relative "../db/migrate/01_create_artists"
