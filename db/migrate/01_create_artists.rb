@@ -8,9 +8,9 @@ class CreateArtists < ActiveRecord::Migration[5.2]
       t.string :hometown
   end
   
-  def up
-  end
+  #def up
+  #end
  
-  def down
-  end
+  #def down
+  #end
 end
